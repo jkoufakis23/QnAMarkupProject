@@ -208,11 +208,11 @@
 		background: #ddd;
 	}
 </style>
-<FORM name="FORM" id="FORM"><div id="conversation" style="margin:15px auto 0 auto;padding:0 15px;max-width:500px"> <center><h3>Federal Subject Matter Jurisdiction <br>(Non-Supplemental) Guide</br></h3></center>
+<FORM name="FORM" id="FORM"><div id="conversation" style="margin:15px auto 0 auto;padding:0 15px;max-width:500px"> <center><h3>Federal Subject Matter Jurisdiction <br>(Non-Supplemental) Guide</br></h3></center><br><center><h4><font color="red">PLEASE NOTE: This does NOT constitute legal advice. This is for EDUCATIONAL purposes only</font></h4></center></br>
 
 <div id='QandA' class='QandA'><div style='padding:15px;background:#ddffdd;text-align:center;'>Loading QnA...</div></div><div id='Choices' class='choices'></div><div id="rawmarkup" style="display:none;">Title: Federal Subject Matter Jurisdiction (Non-Supplemental) Guide
 Description: By: Jeremy Koufakis - QnA Markup Project
-Before: <center><h3>Federal Subject Matter Jurisdiction <br>(Non-Supplemental) Guide</br></h3></center><br><center><h4><font color="red">PLEASE NOTE: This does NOT constitute legal advice.</br><br>This is for EDUCATIONAL purposes only</font></h4></center></br>
+Before: <center><h3>Federal Subject Matter Jurisdiction <br>(Non-Supplemental) Guide</br></h3></center><br><center><h4><font color="red">PLEASE NOTE: This does NOT constitute legal advice. This is for EDUCATIONAL purposes only</font></h4></center></br>
 
 Q(1): Does at least one side consist solely of <b>foreign</b> countries or citizens of foreign countries?
 
